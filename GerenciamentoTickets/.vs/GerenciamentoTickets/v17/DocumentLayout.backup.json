@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\cadastrar\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\cadastrar\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\scripts do banco\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\scripts do banco\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:35:51.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scripts.sql",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
+              "RelativeToolTip": "GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-10T15:21:13.98Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +56,7 @@
               "RelativeDocumentMoniker": "GerenciamentoTickets\\Program.cs",
               "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Program.cs",
               "RelativeToolTip": "GerenciamentoTickets\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T15:00:43.243Z",
               "EditorCaption": ""
