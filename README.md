@@ -2,6 +2,8 @@
 
 Projeto de gerenciamento de tickets por funcionários.
 
+Foi utilizado o tipo de projeto "Aplicativo de Console".
+
 Para este projeto usei o banco de dados SQLSERVER instalado no Visual Studio e os pacotes do EntityFramework. Abaixo script para instalação.
 - Instalando SQLSERVER
   - <pre>Install-Package Microsoft.EntityFrameworkCore.SqlServer</pre>
