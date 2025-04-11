@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\relatorios\\listarticketsporperiodocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\relatorios\\listarticketsporperiodocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\relatorios\\listarticketsporcpfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\relatorios\\listarticketsporcpfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\relatorios\\listarticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\relatorios\\listarticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\relatorios\\listarfuncionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\relatorios\\listarfuncionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\editar\\editarticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\editar\\editarticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\editar\\editarfuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\editar\\editarfuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\cadastrar\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\cadastrar\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\controller\\cadastrar\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\controller\\cadastrar\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\scripts do banco\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\scripts do banco\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\view\\listarticketsporperiodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\view\\listarticketsporperiodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\view\\listarticketsporcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\view\\listarticketsporcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\view\\listarticketsfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\view\\listarticketsfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\view\\listarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\view\\listarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|c:\\projetos\\gerenciamentotickets\\gerenciamentotickets\\gerenciamentotickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34440F74-1287-4725-96D4-95505CF70A92}|GerenciamentoTickets\\GerenciamentoTickets.csproj|solutionrelative:gerenciamentotickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,35 +74,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FuncionarioController.cs",
-              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
-              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
-              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
-              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ListarTicketsPorPeriodoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorPeriodoController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorPeriodoController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorPeriodoController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorPeriodoController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T15:35:51.187Z",
+              "WhenOpened": "2025-04-11T14:59:34.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarTicketsPorCPFController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorCPFController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorCPFController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorCPFController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsPorCPFController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:59:29.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Scripts.sql",
-              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
-              "RelativeDocumentMoniker": "GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
-              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
-              "RelativeToolTip": "GerenciamentoTickets\\Scripts do Banco\\Scripts.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-10T15:21:13.98Z"
+              "Title": "ListarTicketsController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Relatorios\\ListarTicketsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:59:27.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ListarFuncionariosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarFuncionariosController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Relatorios\\ListarFuncionariosController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Relatorios\\ListarFuncionariosController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Relatorios\\ListarFuncionariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:59:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarTicketController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Editar\\EditarTicketController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Editar\\EditarTicketController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Editar\\EditarTicketController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Editar\\EditarTicketController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:59:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarFuncionarioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Editar\\EditarFuncionarioController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Editar\\EditarFuncionarioController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Editar\\EditarFuncionarioController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Editar\\EditarFuncionarioController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:59:04.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\TicketController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Cadastrar\\TicketController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\TicketController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Cadastrar\\TicketController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:58:54.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Controller\\Cadastrar\\FuncionarioController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwD0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:58:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Model\\Ticket.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Model\\Ticket.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Model\\Ticket.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Model\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:58:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\Model\\Funcionario.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Model\\Funcionario.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\Model\\Funcionario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:57:55.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\Menu.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\View\\Menu.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\Menu.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\View\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:56:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListarTicketsPorPeriodo.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarTicketsPorPeriodo.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\View\\ListarTicketsPorPeriodo.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarTicketsPorPeriodo.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\View\\ListarTicketsPorPeriodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:56:44.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListarTicketsPorCPF.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarTicketsPorCPF.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\View\\ListarTicketsPorCPF.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarTicketsPorCPF.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\View\\ListarTicketsPorCPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:56:39.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListarTicketsFuncionario.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarTicketsFuncionario.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\View\\ListarTicketsFuncionario.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarTicketsFuncionario.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\View\\ListarTicketsFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:56:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListarFuncionarios.cs",
+              "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarFuncionarios.cs",
+              "RelativeDocumentMoniker": "GerenciamentoTickets\\View\\ListarFuncionarios.cs",
+              "ToolTip": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\View\\ListarFuncionarios.cs",
+              "RelativeToolTip": "GerenciamentoTickets\\View\\ListarFuncionarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:56:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\GerenciamentoTickets\\GerenciamentoTickets\\GerenciamentoTickets\\Program.cs",
               "RelativeDocumentMoniker": "GerenciamentoTickets\\Program.cs",
